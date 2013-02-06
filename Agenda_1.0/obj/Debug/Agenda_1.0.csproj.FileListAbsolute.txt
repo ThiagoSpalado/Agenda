@@ -1,0 +1,22 @@
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\bin\Debug\Agenda_1.0.exe.config
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\bin\Debug\Agenda_1.0.exe
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\bin\Debug\Agenda_1.0.pdb
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.0.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1._0.Properties.Resources.resources
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.0.csproj.GenerateResource.Cache
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.0.exe
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.0.pdb
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1._0.Agenda.resources
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\bin\Debug\DAL.dll
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\Macoratti\Agenda_1.0\Agenda_1.0\bin\Debug\DAL.pdb
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\bin\Debug\Agenda_1.0.exe.config
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.0.exe
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.0.pdb
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\bin\Debug\Agenda_1.0.exe
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\bin\Debug\Agenda_1.0.pdb
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\bin\Debug\DAL.dll
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\bin\Debug\DAL.pdb
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.0.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1._0.Agenda.resources
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1._0.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.0.csproj.GenerateResource.Cache
