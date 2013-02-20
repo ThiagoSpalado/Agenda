@@ -20,3 +20,14 @@ C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.
 C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1._0.Agenda.resources
 C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1._0.Properties.Resources.resources
 C:\Users\Thiago\Desktop\Thiago\Manager\Agenda_1.0\Agenda_1.0\obj\Debug\Agenda_1.0.csproj.GenerateResource.Cache
+C:\Git\Agenda\Agenda_1.0\bin\Debug\Agenda_1.0.exe.config
+C:\Git\Agenda\Agenda_1.0\obj\Debug\Agenda_1.0.exe
+C:\Git\Agenda\Agenda_1.0\obj\Debug\Agenda_1.0.pdb
+C:\Git\Agenda\Agenda_1.0\bin\Debug\Agenda_1.0.exe
+C:\Git\Agenda\Agenda_1.0\bin\Debug\Agenda_1.0.pdb
+C:\Git\Agenda\Agenda_1.0\bin\Debug\DAL.dll
+C:\Git\Agenda\Agenda_1.0\bin\Debug\DAL.pdb
+C:\Git\Agenda\Agenda_1.0\obj\Debug\Agenda_1.0.csprojResolveAssemblyReference.cache
+C:\Git\Agenda\Agenda_1.0\obj\Debug\Agenda_1._0.Agenda.resources
+C:\Git\Agenda\Agenda_1.0\obj\Debug\Agenda_1._0.Properties.Resources.resources
+C:\Git\Agenda\Agenda_1.0\obj\Debug\Agenda_1.0.csproj.GenerateResource.Cache

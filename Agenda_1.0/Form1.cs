@@ -43,14 +43,9 @@ namespace Agenda_1._0
             opcao(options.Insert);
         }
 
-        private void btnAlterar_Click(object sender, EventArgs e)
-        {
-            opcao(options.Update);
-        }
-
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            opcao(options.Insert);
+            opcao(options.Search);
         }
 
         private void opcao(options enmOptions)
@@ -64,12 +59,16 @@ namespace Agenda_1._0
             switch (enmOptions)
             {
                 case options.Insert:
-                    dd.Salvar(d);
-                    lblRetorno.Text = "Salvo com sucesso";
-                    break;
-                case options.Update:
-                    dd.Editar(d);
-                    lblRetorno.Text = "Alterado com sucesso";
+                    if (!dd.Editar(d))
+                    {
+                        dd.Salvar(d);
+                        lblRetorno.Text = "Salvo com sucesso";
+                    }
+                    else
+                    {
+                        dd.Editar(d);
+                        lblRetorno.Text = "Alterado com sucesso";
+                    }
                     break;
                 case options.Search:
                     txtDiario.Text = dd.Buscar(d);

@@ -31,7 +31,6 @@
             this.txtDiario = new System.Windows.Forms.TextBox();
             this.monthCalendar1 = new System.Windows.Forms.MonthCalendar();
             this.btnSalvar = new System.Windows.Forms.Button();
-            this.btnAlterar = new System.Windows.Forms.Button();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.txtBusca = new System.Windows.Forms.TextBox();
             this.btnCalendario = new System.Windows.Forms.Button();
@@ -64,16 +63,6 @@
             this.btnSalvar.Text = "Salvar";
             this.btnSalvar.UseVisualStyleBackColor = true;
             this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
-            // 
-            // btnAlterar
-            // 
-            this.btnAlterar.Location = new System.Drawing.Point(105, 12);
-            this.btnAlterar.Name = "btnAlterar";
-            this.btnAlterar.Size = new System.Drawing.Size(87, 23);
-            this.btnAlterar.TabIndex = 3;
-            this.btnAlterar.Text = "Alterar";
-            this.btnAlterar.UseVisualStyleBackColor = true;
-            this.btnAlterar.Click += new System.EventHandler(this.btnAlterar_Click);
             // 
             // btnBuscar
             // 
@@ -122,7 +111,6 @@
             this.Controls.Add(this.btnCalendario);
             this.Controls.Add(this.txtBusca);
             this.Controls.Add(this.btnBuscar);
-            this.Controls.Add(this.btnAlterar);
             this.Controls.Add(this.btnSalvar);
             this.Controls.Add(this.monthCalendar1);
             this.Controls.Add(this.txtDiario);
@@ -139,7 +127,6 @@
         private System.Windows.Forms.TextBox txtDiario;
         private System.Windows.Forms.MonthCalendar monthCalendar1;
         private System.Windows.Forms.Button btnSalvar;
-        private System.Windows.Forms.Button btnAlterar;
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.TextBox txtBusca;
         private System.Windows.Forms.Button btnCalendario;
